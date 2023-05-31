@@ -10,13 +10,13 @@
 
 - **郭霖，2019年毕业，前端研发工程师。**
 - **目前就职于 新浪微博广告部门。**
-- **负责「 广告特征管理平台( Vite + Vue3 + TS ) 」从 0 到 1 的搭建及部署。**
-- **负责「 微博广告博文创意生成( Vue3 + TS )、App博文推广( Vue ) 」等的界面开发工作。**
-- **主导「 广告部门网站构建( Vite + Vue3 + TS )以及组内 Wiki 搭建( docker ) 」。**
+- **负责「 微博广告特征管理平台( `Vite + Vue3 + TS` ) 」从 0 到 1 的搭建及部署。**
+- **负责「 微博App博文推广( `Vue` )、广告博文创意生成( `Vue3 + TS` ) 」等界面构建工作。**
+- **主导「 广告部门网站构建( `Vite + Vue3 + TS` )以及组内 Wiki 搭建( `docker` ) 」。**
 
 ## 🛠 Skills
 
-**`HTML、JS、CSS、Vue、( React｜Node｜TS｜小程序 )、( Webpack｜Gulp｜Vite｜mongodb )...`**
+**`HTML、JS、CSS、Vue、( React｜Node｜TS｜小程序 )、( Webpack｜Vite｜Gulp｜mongodb )...`**
 
 ## 🔗 Links
 
